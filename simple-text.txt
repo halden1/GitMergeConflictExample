@@ -10,6 +10,7 @@ Edit
 Me
 
 this
+<<<<<<< HEAD
 is
 the
 worst
@@ -18,3 +19,14 @@ ever
 
 never
 again
+=======
+is 
+going 
+to
+haunt
+me
+forever
+
+
+
+>>>>>>> haldenkellett
