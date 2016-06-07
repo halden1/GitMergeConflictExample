@@ -8,25 +8,3 @@ Code
 Please
 Edit
 Me
-
-this
-<<<<<<< HEAD
-is
-the
-worst
-thing
-ever
-
-never
-again
-=======
-is 
-going 
-to
-haunt
-me
-forever
-
-
-
->>>>>>> haldenkellett
